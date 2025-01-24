@@ -11,7 +11,7 @@
 
 body {
   background: var(--color-slate-300);
-  font-family: "Outfit", sans-serif;
+  font-family: "Outfit";
   font-weight: 400;
   margin: 0;
 }
